@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=diretorio
+comment0.target=MusicLibrary(java.lang.String)
+comment1.params=diretorio
+comment1.target=void\ setDiretorio(java.lang.String)
+comment10.params=
+comment10.target=void\ playAll()
+comment2.params=diretorio
+comment2.target=void\ carregarDiretorio(java.lang.String)
+comment3.params=file
+comment3.target=void\ addFile(java.lang.String)
+comment4.params=
+comment4.target=void\ getNumberOfFiles()
+comment5.params=
+comment5.target=void\ listFiles()
+comment6.params=i
+comment6.target=void\ removeFile(int)
+comment7.params=faixa
+comment7.target=void\ removeFile(java.lang.String)
+comment8.params=
+comment8.target=void\ removeAll()
+comment9.params=file
+comment9.target=void\ playFile(java.lang.String)
+numComments=11

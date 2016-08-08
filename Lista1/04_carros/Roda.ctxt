@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Roda()
+comment1.params=aro
+comment1.target=Roda(int)
+comment2.params=pressao
+comment2.target=void\ setPressao(int)
+comment3.params=aro
+comment3.target=void\ setTamanhoAro(int)
+numComments=4

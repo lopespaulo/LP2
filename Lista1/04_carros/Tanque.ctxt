@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=double\ getCapacidade()
+comment1.params=
+comment1.target=double\ getQtCombustivel()
+comment2.params=qtCombustivel
+comment2.target=void\ setQtCombustivel(double)
+numComments=3

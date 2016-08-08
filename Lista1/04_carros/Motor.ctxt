@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Motor()
+comment1.params=cilindradas\ tipoCombustivel
+comment1.target=Motor(double,\ java.lang.String)
+comment2.params=cilindradas
+comment2.target=void\ setCilindradas(double)
+comment3.params=tipoCombustivel
+comment3.target=void\ setTipoCombustivel(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getTipoCombustivel()
+comment5.params=
+comment5.target=double\ getCilindradas()
+comment6.params=
+comment6.target=double\ getMaxSpeed()
+comment7.params=
+comment7.target=boolean\ getIsOn()
+comment8.params=
+comment8.target=void\ setIsOn()
+numComments=9
